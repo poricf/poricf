@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)--->[Here](www.linkedin.com/in/poricf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/poricf)
 
 
 
