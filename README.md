@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me through  [Email me](mailto:famkhan006@gmail.com) or on Telegram ↗ [@Fahmi](https://t.me/poricf)
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
 -->
-## Fahmi Dinsefa - AI and Machine Learning Enthusiast | Web Developer
+### I am Fahmi Dinsefa - AI and Machine Learning Enthusiast | Web Developer
 - 🔭 I’m currently working on a Generative AI project with my talented teammates.
 - 🌱  I’m currently learning through the Alx SE program, expanding my knowledge and honing my skills.
 - 👯  I’m looking to collaborate on exciting open-source projects or anything related to AI and software engineering.
