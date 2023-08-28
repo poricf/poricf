@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)--->[Here](www.linkedin.com/in/poricf)
-[![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=Upwork&logoColor=white)]
+
+
+
+![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=Upwork&logoColor=white)
 
