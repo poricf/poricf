@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - 💬 Feel free to ask me about AI, programming, or anything else you'd like to discuss.
 - 📫 How to reach me: You can reach me through  [Email me](mailto:famkhan006@gmail.com) or on Telegram ↗ [@Fahmi](https://t.me/poricf)
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](<www.linkedin.com/in/
-poricf>)
+
+- 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)(www.linkedin.com/in/
+poricf)
