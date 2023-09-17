@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=Upwork&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=poricf&theme=onedark)](https://github.com/poricf/github-profile-trophy)
 
 
