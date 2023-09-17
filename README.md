@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔  I'm always open to learning and seeking help from the community to grow and improve.
 - 💬 Feel free to ask me about AI, programming, or anything else you'd like to discuss.
 - 📫 How to reach me: You can reach me through  [Email](mailto:famkhan006@gmail.com) or on Telegram ↗ [@Fahmi](https://t.me/poricf)
-- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
+- ⚡ Fun fact: .
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/poricf)
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=poricf&theme=onedark)](https://github.com/poricf/github-profile-trophy)
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poricf)](https://github.com/poricf/github-readme-stats)
