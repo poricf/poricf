@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 
 ![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=Upwork&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=poricf)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=poricf&theme=onedark)](https://github.com/poricf/github-profile-trophy)
+
+
 
