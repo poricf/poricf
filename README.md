@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### I am Fahmi Dinsefa -  Mobile Developer | AI and Machine Learning Enthusiast 
 - 🔭 I’m currently working on a Generative AI project with my talented teammates.
-- 🌱  I’m currently learning through the Alx SE program, expanding my knowledge and honing my skills.
+- 🌱  I’m currently learning through the A2SV(African to Silcon Valley) SE program, expanding my knowledge and honing my skills.
 - 👯  I’m looking to collaborate on exciting open-source projects or anything related to AI and software engineering.
 - 🤔  I'm always open to learning and seeking help from the community to grow and improve.
 - 💬 Feel free to ask me about AI, programming, or anything else you'd like to discuss.
