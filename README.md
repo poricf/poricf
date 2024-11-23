@@ -13,14 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me through  [Email me](mailto:famkhan006@gmail.com) or on Telegram ↗ [@Fahmi](https://t.me/poricf)
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
 -->
-### I am Fahmi Dinsefa -  Mobile Developer | AI and Machine Learning Enthusiast 
-- 🔭 I’m currently working on a Generative AI project with my talented teammates.
-- 🌱  I’m currently learning through the A2SV(African to Silcon Valley) SE program, expanding my knowledge and honing my skills.
-- 👯  I’m looking to collaborate on exciting open-source projects or anything related to AI and software engineering.
-- 🤔  I'm always open to learning and seeking help from the community to grow and improve.
-- 💬 Feel free to ask me about AI, programming, or anything else you'd like to discuss.
-- 📫 How to reach me: You can reach me through  [Email](mailto:famkhan006@gmail.com) or on Telegram ↗ [@Fahmi](https://t.me/poricf)
-- ⚡ Fun fact: .
+### **I am Fahmi Dinsefa**  
+#### Mobile Developer | Flutter Enthusiast | AI and Machine Learning Enthusiast  
+
+- 🔭 I’m currently working on a **Generative AI** project with my talented teammates.  
+- 🌱 I’m expanding my skills through the **A2SV (African to Silicon Valley) SE Program**, sharpening my problem-solving and software engineering expertise.  
+- 👯 I’m eager to collaborate on exciting **open-source projects**, AI innovations, or **mobile app development**—especially with **Flutter**!  
+- 🤔 I’m always open to learning and welcome help from the community to grow and improve.  
+- 💬 Feel free to ask me about **Flutter, AI, programming**, or anything else you’d like to discuss!  
+- 📫 **How to reach me:**  
+  - **Email:** [famkhan006@gmail.com](mailto:famkhan006@gmail.com)  
+  - **Telegram:** [@Fahmi](https://t.me/poricf)  
+- ⚡ **Fun Fact:** I’m passionate about **designing clean, user-friendly interfaces** and turning ideas into reality through code!  
+
+---  
+Let me know if you'd like more tweaks or additions!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/poricf)
