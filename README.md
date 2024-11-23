@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ### **I am Fahmi Dinsefa**  
 #### Software Engineer | Mobile Developer | AI and Machine Learning Enthusiast  
 
-- 🔭 I’m currently working on a **Generative AI** project with my talented teammates.  
 - 🌱 I’m expanding my skills through the **A2SV (African to Silicon Valley) SE Program**, sharpening my problem-solving and software engineering expertise.  
 - 👯 I’m eager to collaborate on exciting **open-source projects**, AI innovations, or **mobile app development**—especially with **Flutter**!  
 - 🤔 I’m always open to learning and welcome help from the community to grow and improve.  
