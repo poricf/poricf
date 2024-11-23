@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
 -->
 ### **I am Fahmi Dinsefa**  
-#### Mobile Developer | Flutter Enthusiast | AI and Machine Learning Enthusiast  
+#### Software Engineer | Mobile Developer | AI and Machine Learning Enthusiast  
 
 - 🔭 I’m currently working on a **Generative AI** project with my talented teammates.  
 - 🌱 I’m expanding my skills through the **A2SV (African to Silicon Valley) SE Program**, sharpening my problem-solving and software engineering expertise.  
