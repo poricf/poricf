@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - ⚡ **Fun Fact:** I’m passionate about **designing clean, user-friendly interfaces** and turning ideas into reality through code!  
 
 ---  
-Let me know if you'd like more tweaks or additions!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/poricf)
