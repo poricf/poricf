@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m always open to learning and welcome help from the community to grow and improve.  
 - 💬 Feel free to ask me about **Flutter, AI, programming**, or anything else you’d like to discuss!  
 - 📫 **How to reach me:**  
-  - **Email:** [famkhan006@gmail.com](mailto:famkhan006@gmail.com)  
+  - **Email:** [fahmidinsefa@gmail.com](mailto:famkhan006@gmail.com)  
   - **Telegram:** [@Fahmi](https://t.me/porcif)  
 - ⚡ **Fun Fact:** I’m passionate about **designing clean, user-friendly interfaces** and turning ideas into reality through code!  
 
