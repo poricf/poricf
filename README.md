@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
 -->
 ### **I am Fahmi Dinsefa**  
-#### Software Engineer | Mobile Developer | AI and Machine Learning Enthusiast  
+#### Backend Rust Developer | Software Engineer | AI & Machine Learning Enthusiast
 
-- 🌱 I’m expanding my skills through the **A2SV (African to Silicon Valley) SE Program**, sharpening my problem-solving and software engineering expertise.  
-- 👯 I’m eager to collaborate on exciting **open-source projects**, AI innovations, or **mobile app development**—especially with **Flutter**!  
-- 🤔 I’m always open to learning and welcome help from the community to grow and improve.  
-- 💬 Feel free to ask me about **Flutter, AI, programming**, or anything else you’d like to discuss!  
+- 🌱 Serving as Head of Education Intern at A2SV (Africa to Silicon Valley), where I lead training, problem setting, and mentorship for top-tier engineering talent.
+- 👯 Strong background in algorithms, backend development (Rust), and system design.
+- 🤔 Passionate about building scalable infrastructure, contributing to open-source, and crafting clean mobile UIs with Flutter.
+- 💬 Always open to collaboration, mentorship, and community-driven projects.
 - 📫 **How to reach me:**  
-  - **Email:** [fahmidinsefa@gmail.com](mailto:famkhan006@gmail.com)  
+  - **Email:** [fahmidinsefa@gmail.com](mailto:fahmidinsefa@gmail.com)  
   - **Telegram:** [@Fahmi](https://t.me/porcif)  
-- ⚡ **Fun Fact:** I’m passionate about **designing clean, user-friendly interfaces** and turning ideas into reality through code!  
 
 ---  
 
