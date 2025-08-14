@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
 -->
 ### **I am Fahmi Dinsefa**  
-#### Backend Rust Developer | Software Engineer | AI & Machine Learning Enthusiast
+#### Backend Rust Developer | Software Engineer | Flutter Mobile Developer | AI & Machine Learning Enthusiast
 
 - 🌱 Serving as Head of Education Intern at A2SV (Africa to Silicon Valley), where I lead training, problem setting, and mentorship for top-tier engineering talent.
 - 👯 Strong background in algorithms, backend development (Rust), and system design.
