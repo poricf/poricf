@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 Passionate about building scalable infrastructure, contributing to open-source, and crafting clean mobile UIs with Flutter.
 - 💬 Always open to collaboration, mentorship, and community-driven projects.
 - 📫 **How to reach me:**  
-  - **Email:** [fahmidinsefa@gmail.com](mailto:fahmidinsefa@gmail.com)  
+  - **Email:** [fahmidinsefa@gmail.com](mailto:fahmi.dinsho@gmail.com)  
   - **Telegram:** [@Fahmi](https://t.me/porcif)  
 
 ---  
